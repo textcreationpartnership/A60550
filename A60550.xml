@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true account of the behaviour and confession of the criminals, condemned on Thursday the 15th day of April, 1686 at Justice-Hall in the Old-Bayly viz. Peter Lary, John Toy, Elizabeth Churchill, John Crofts, John Steers, and Rebeckah Rose, of which Peter Lary was this present Wednesday the 21st of April, executed at Tyburn, and the other five repriev'd.</title>
+            <author>Smith, Samuel, 1620-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60550</idno>
+            <idno type="STC">Wing S4205</idno>
+            <idno type="STC">ESTC R492265</idno>
+            <idno type="EEBO-CITATION">13106932</idno>
+            <idno type="OCLC">ocm 13106932</idno>
+            <idno type="VID">97527</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97527)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 779:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true account of the behaviour and confession of the criminals, condemned on Thursday the 15th day of April, 1686 at Justice-Hall in the Old-Bayly viz. Peter Lary, John Toy, Elizabeth Churchill, John Crofts, John Steers, and Rebeckah Rose, of which Peter Lary was this present Wednesday the 21st of April, executed at Tyburn, and the other five repriev'd.</title>
+                  <author>Smith, Samuel, 1620-1698.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Mallet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated and signed at end: 19th day of April, 1686, Samuel Smith, Ordinary.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brigands and robbers --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:97527:1" rendition="simple:additions"/>
+            <head>THE TRUE ACCOUNT OF THE BEHAVIOUR AND CONFESSION of the Criminals, Condemned on <hi>Thurſday</hi> the 15th. day of <hi>April,</hi> 1686. At <hi>J<g ref="char:V">Ʋ</g>STICE-HALL</hi> in the <hi>OLD-BAYLY Viz. Peter Lary, John Toy, Elizabeth Churchill, John Crofts, John Steers,</hi> and <hi>Rebeckah Roſe,</hi> of which <hi>Peter Lary,</hi> was this preſent <hi>Wedneſday</hi> the 21ſt. of <hi>April,</hi> Executed at TYBURN, And the other five Repriev'd.</head>
+            <p>THe <hi>Ordinary</hi> firſt undertook this ſer<g ref="char:EOLhyphen"/>vice, to the Community, of publiſh<g ref="char:EOLhyphen"/>ing the Account of the Behaviour and Confeſſions of the Condemned Crimi<g ref="char:EOLhyphen"/>nals in <hi>Newgate,</hi> that no perſons might be impoſed upon by others, who preſumed to Print falſe Reports concerning them.</p>
+            <p>Now, whereas ſome of late have ex<g ref="char:EOLhyphen"/>pected that an Account ſhould be given of Confeſſions to be made at <hi>Tyburn.</hi> This the <hi>Ordinary</hi> hath endeavoured to bring the dying Malefactors unto, but they are ſomwhat Averſe to it there, becauſe they cannot be well heard, by reaſon of the Noiſe of the People, beſides the Conſter<g ref="char:EOLhyphen"/>nation which is upon them, being ready to be Executed, makes them ſay little, but only thus. <hi>Take warning, not to come to this Fatal Place, to which we are brought, by the neglect of our Duty to God and Man;</hi> and uſually deſire only, that the <hi>Ordinary</hi> would pray with them, and that they may do the like for themſelves.</p>
+            <p>This Account therefore he now gives, that on <hi>Friday</hi> which was the next Day, after the Sentence of Death paſſed upon the aforeſaid Criminals, he viſited them, and after he had prayed with them, ear<g ref="char:EOLhyphen"/>neſtly exhorted them, that they would beg of God to make them ſenſible of their ſeveral Crimes, that they would look back on the whole courſe of their Life; in aſ<g ref="char:EOLhyphen"/>much, as the juſt God never leaves Sin<g ref="char:EOLhyphen"/>ners deſtitute of his preventing Grace, till they firſt harden their own Hearts, indul<g ref="char:EOLhyphen"/>ging themſelves in ſome ſecret Sins, there<g ref="char:EOLhyphen"/>by ſtrength'ning vicious inclinations, to a conſiderable degree of <hi>Atheiſm,</hi> becauſe they are not ſome time diſcovered and brought to ſhame.</p>
+            <p>He told them, that they ought, having given Notorious Scandals, to make their penitential acknowledgments as publick for the warning of others, by their Exam<g ref="char:EOLhyphen"/>ple of ſuffering Juſtice, to avoid the ſame Crimes.</p>
+            <p>And that tho' they had quench'd the motions of God's Holy Spirit, and reſiſted the Convictions of their Conſcience for<g ref="char:EOLhyphen"/>merly; yet now by this Fatal Stroke drawn upon themſelves.</p>
+            <p>He loudly calls them to Repentance, that ſo they may eſcape the Wrath which is to come.</p>
+            <p>Upon this, they began to be awakened from their Security in an Evil State, and to lament their former flagitious Courſes, which Relenting, the <hi>Ordinary</hi> Encoura<g ref="char:EOLhyphen"/>ged, yet adviſed them not to rely on any ſlight ſorrow for Sin, as if this were any ſatisfaction to God, for all the Exorbitan<g ref="char:EOLhyphen"/>ces of their Converſations.</p>
+            <pb n="2" facs="tcp:97527:2"/>
+            <p>Here he ſtated the differences betwixt True and Falſe Repentance, and the Na<g ref="char:EOLhyphen"/>ture of True Faith in coming to God for Reconciliation by Chriſt, to which, they were very attentive.</p>
+            <p>On <hi>Saturday</hi> I viſited them again, and told them that I expected a further Ac<g ref="char:EOLhyphen"/>count from them of their fitneſs to Dye, than what I had already received.</p>
+            <p>I enquired what Frame and Diſpoſition of Heart they were in at preſent: Whither they retained thoſe good impreſſions which were upon them the day before. The re<g ref="char:EOLhyphen"/>plyed, <hi>That they did.</hi>
+            </p>
+            <p>Then asking them what Hope they had, that God was reconciled to them in Chriſt, they replyed, <hi>That they Prayed and did what they could, to obtain the Pardon of their Sins, and that they might be ſaved.</hi> I aſſured them, that if they were willing to be happy on God's Terms, <hi>viz.</hi> If they de<g ref="char:EOLhyphen"/>ſired ſincerely to be Holy as much as to be Happy, then Chriſt's ſanctifying Spirit would become their Comforter.</p>
+            <p>Then I Exhorted them to prepare for the Duties of the <hi>Lords Day;</hi> becauſe it was likely to be the laſt <hi>Sabbath</hi> they would ſpend upon Earth.</p>
+            <p>After this, they were deſirous that I would pray with them again, which I did, and they promiſed me, that they would take pains with their own hearts in my Abſence, to fit themſelves for a future hap<g ref="char:EOLhyphen"/>py State. I told them, that they ought to aſſiſt one another to the utmoſt, in Or<g ref="char:EOLhyphen"/>der thereunto; conſidering how by their bad Counſel and Example, they had miſ<g ref="char:EOLhyphen"/>led others into ſinful Practices, and ſo diſ<g ref="char:EOLhyphen"/>miſt them.</p>
+            <p>On the <hi>Lords Day,</hi> the <hi>Ordinary</hi> Preach<g ref="char:EOLhyphen"/>ed on this Text, the 26 Chap. of St. <hi>Mat<g ref="char:EOLhyphen"/>thew,</hi> the 40 Verſe: <hi>Watch and Pray, that ye enter not into Temptation.</hi>
+            </p>
+            <p>Theſe Words were Chriſt's Advice to his Diſciples, when he found them heavy a ſleep, in the midſt of his Agonies, in the Night, immediately foregoing his being Apprehended to be Crucified. He Ala<g ref="char:EOLhyphen"/>rumed them from their Security, by en<g ref="char:EOLhyphen"/>joyning them to <hi>Watch and Pray,</hi> as being moſt forcible in Conjunction. If we Pray not, we diſarm our ſelves, Satan gets an advantage of our ſloath: If we <hi>Watch not in Praying,</hi> and after it, to maintain a ſpi<g ref="char:EOLhyphen"/>ritual Frame; we make our Prayer fruit<g ref="char:EOLhyphen"/>leſs and ineffectual; <hi>Prayer keeps us watch<g ref="char:EOLhyphen"/>ing,</hi> and this makes Prayer available.</p>
+            <p n="1">1ſt. We have need to <hi>Watch in Praying,</hi> and to <hi>Pray in Watching,</hi> becauſe Temp<g ref="char:EOLhyphen"/>tations alway await us in our Chriſtian Station.</p>
+            <p n="2">2ly. It is very dangerous through care<g ref="char:EOLhyphen"/>leſneſs of our Duty, to expoſe our ſelves to the leaſt approach of a Temptation, (<hi>leſt ye enter.</hi>
+            </p>
+            <p n="3">3ly. Such who <hi>Watch and Pray</hi> with a due frame of heart, ſhall ordinarily be kept out of Temptation, or not left in it to themſelves. If they enter into it, they ſhall not fall under the Power of it Total<g ref="char:EOLhyphen"/>ly and Finally.</p>
+            <p n="4">4ly. Pray, leſt (ye) my Diſciples, <hi>Enter into Temptation:</hi> Obſerve, the beſt of Men cannot promiſe themſelves to be free, and exempt from Satans Stratagems or Aſ<g ref="char:EOLhyphen"/>ſaults. Theſe are the Tryals of Sincerity, the Exerciſe and ſtrengthening of real Grace. The Chriſtians Alarum againſt Security; otherwiſe, we ſhould be good by Neceſſity, rather than Choice: If we did not ſtrive for Victory againſt Sin, Sa<g ref="char:EOLhyphen"/>tan, and the World.</p>
+            <p n="5">5ly. Chriſtians muſt <hi>Watch and Pray,</hi> eſpecially againſt ſuch Temptations, which moſt beſet their preſent State and Condi<g ref="char:EOLhyphen"/>tion of Life, or at the approach of Death.</p>
+            <p n="6">6ly. Tho' the Lord over-rules Tempta<g ref="char:EOLhyphen"/>tions to a good Iſſue in the Godly, yet they are not to expoſe themſelves by ſecu<g ref="char:EOLhyphen"/>rity, in any expectation of that good which comes by Accident. Temporal Victories are got by Fighting, but Spiritual by fly<g ref="char:EOLhyphen"/>ing the occaſion of ſinning. God is not bound to Aid us in thoſe Temptations, which we thruſt our ſelves upon.</p>
+            <p>After theſe Obſervations raiſed from the Text, the <hi>Ordinary</hi> proceeded to ſhew wherein the Nature of true watchfulneſs conſiſts; and in what Reſpects, Prayer in Conjunction, contributes to the declining or defeatment of Temptations. Then he deſcribed ſome Symptoms in perſons lyable to enter upon the Borders of Temptations, and ſome means in the uſe of which, they might be avoided, or the effect and pre<g ref="char:EOLhyphen"/>valencys of them, much broken and abated.</p>
+            <p>Alſo he gave ſome Directions, how to get out of the Snare of Satans Temptation, when taken therein.</p>
+            <p>And aſſigned ſome Conſiderations whereby the ſeveral Temptations of Diſ<g ref="char:EOLhyphen"/>couragement or Preſumption in the ap<g ref="char:EOLhyphen"/>proaches of Death, may be over-come.</p>
+            <p>Laſtly, he Addreſſed himſelf to the con<g ref="char:EOLhyphen"/>demned
+<pb n="3" facs="tcp:97527:2"/>Criminals, by a practical improve<g ref="char:EOLhyphen"/>ment of the precedent Diſcourſe to their particular diſtreſſed Eſtate.</p>
+            <p>In the Afternoon, a Sermon was Preach<g ref="char:EOLhyphen"/>ed on the 95th. <hi>Pſalm,</hi> and the 8th. Verſe <hi>To day if you will hear his Voice, harden not your Hearts.</hi> From which, were deduced theſe general Conſiderations.</p>
+            <p n="1">1ſt. <hi>By what various kind of Voices doth the Lord call upon, and invite Sinners unto Repentance?</hi>
+            </p>
+            <p n="2">2dly. <hi>In what Reſpects, are we ſaid to hear and obey theſe Voices.</hi>
+            </p>
+            <p n="3">3dly. <hi>That by not attending to them, the Heart becomes gradually hardened, by the de<g ref="char:EOLhyphen"/>ceits of Sin and Satan.</hi>
+            </p>
+            <p n="4">4thly. <hi>That to prevent ſuch obduration of Heart, and provocation of God by it: It is the Duty of all Perſons, to day without delay, to comply with, and improve the diſtinct voices and Calls of God unto Repentance and amend<g ref="char:EOLhyphen"/>ment of Life.</hi> Theſe Generals were treated of very pathetically, and the Auditory much affected therewith.</p>
+            <p>On <hi>Monday</hi> the <hi>Ordinary</hi> Repaired to the Condemned Criminals, and inquired of them what Divine impreſſions were made upon their hearts by the Prayers and Ser<g ref="char:EOLhyphen"/>mons on the <hi>Lords Day;</hi> and took a far<g ref="char:EOLhyphen"/>ther Account of their fitneſs for their ap<g ref="char:EOLhyphen"/>proaching Death; and they readily com<g ref="char:EOLhyphen"/>plyed with his deſires.</p>
+            <p>
+               <hi>John Toy,</hi> about 19 or 20 Years of Age, ſaid that he was bred a Seaman, was the fourth Mate in an <hi>Eaſt-India</hi> Ship, had 50 <abbr>s.</abbr> 
+               <hi>per</hi> Month Wages; might have li<g ref="char:EOLhyphen"/>ved well on the Sea Employment, and in<g ref="char:EOLhyphen"/>tended for a Voyage in a Ship now ready to put to Sea: But for two Months paſt he fell into bad Company, which miſs-led him into ſome Extravegancies, as Drink<g ref="char:EOLhyphen"/>ing, and other miſs-ſpending of his time. He denyed not the Fact for which he is Condemned. Idleneſs he ſaid, brought on the neglect of his Duty to God, where<g ref="char:EOLhyphen"/>by, he took to this unlawful Courſe of taking money by Violence: But he ſays it is the firſt Fact of this Nature that he Committed. He affirmed, that it is no little trouble to him, that he hath ſinned againſt clear Light, and the frequent Con<g ref="char:EOLhyphen"/>victions of his Conſcience, which now Recurr to mind, and do aggravate the ſins of his miſs-ſpent Life. But he hopes if he may obtain his Majeſty's Pardon, that he ſhall lead a New Life, in ſerving God and the King Faithfully.</p>
+            <p>I told him and the other Criminals, how deceitful the heart of man is; this hath too often been ſadly experienced in ſome, who after they have been Reprieved and ſet at Liberty, have abuſed God and the King's mercy, by the greater aggravation of their ſins, having been Cut off in a ſhort time by publick Juſtice, for Committing freſh and greater Crimes. I admoniſhed them therefore, to diſtruſt their own hearts, for as much as ſincere Repentance is not ſo eaſie a work after ſin hath been ſtrengthened by cuſtome, and that it re<g ref="char:EOLhyphen"/>quires ſome conſiderable time to manifeſt the ſound Fruits and effects thereof. But ſome Criminals after they are ſpared, for<g ref="char:EOLhyphen"/>get the Vows made to God in their diſtreſs, and their good Reſolutions of Reformati<g ref="char:EOLhyphen"/>on vaniſh, when their fears of Death are blown over.</p>
+            <p>Upon this, they did ſay, that they did pray to God, that they might be ſincere in their ſorrow for their ſin, and that his Grace hitherto, had lead them to Repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p>Secondly, <hi>John Steers,</hi> was Condemn<g ref="char:EOLhyphen"/>ed for breaking up the houſe of <hi>Edward Wiſeman,</hi> on the 4th. of <hi>March</hi> laſt, and Apprehended in the Proſecutors houſe. He ſaid that he was Born in <hi>Middleſex,</hi> at <hi>Shad<g ref="char:EOLhyphen"/>well,</hi> that he is Nineteen Years of Age. the Employment he was bred up to, was to be a Seaman; that he had ſerved his Majeſty formerly in the War againſt the <hi>Dutch,</hi> that afterwards he was entertain<g ref="char:EOLhyphen"/>ed as a Soldier at <hi>Tangier;</hi> that ſince the Demoliſhing the Forts there, he came over into <hi>England,</hi> and wiſhes that he had not followed an Idle Courſe of Life: This brought him to Poverty, and was the temptation of joyning himſelf to bad Com<g ref="char:EOLhyphen"/>pany, and to contract acquaintance with ſome Leud Women. He expreſt himſelf to be penitent for all his other ſins, which he ſaid were many and great. It grieved him that he had not obſerved the <hi>Lords Day,</hi> that he had neglected to Pray, that God would daily keep him from Tempta<g ref="char:EOLhyphen"/>tions of ſinning againſt him. But he ho<g ref="char:EOLhyphen"/>ped that he would give him Faith and Re<g ref="char:EOLhyphen"/>pentance, to fit him for another World,</p>
+            <p>That he doth not diſpair of Gods mer<g ref="char:EOLhyphen"/>cy, but endeavour what he can to make peace with him, through <hi>Chriſt,</hi> that death might not be terrible unto him.</p>
+            <p>Thirdly, <hi>Peter Lary,</hi> Condemned for ſtealing a ſilver Tankard, value 5 <abbr>l.</abbr> of the
+<pb n="4" facs="tcp:97527:3" rendition="simple:additions"/>goods of <hi>Thomas Earl.</hi> This <hi>Lary</hi> having been an Old Offender, tho' young in Years, about Fourteen, changed his Name to <hi>Wright,</hi> but con<g ref="char:EOLhyphen"/>feſs'd to the <hi>Ordinary,</hi> that his True Name is <hi>La<g ref="char:EOLhyphen"/>ry,</hi> that his Father is an <hi>Iriſh</hi> Man, but travelling into <hi>Flanders,</hi> ſet up there a Victualling Houſe, and that himſelf was Born there; but his Father meeting with diſapointments in his Trade, came into <hi>England,</hi> and is now a Soldier. The Youth acknowledged that he kept bad Company, had been a great Swearer and a Lyer, denys not that he ſtole the Tankard. The <hi>Ordinary</hi> found him very ignorant in Religious Concernments, and therefore took more pains in inſtructing him. He ſays he is ſorry for all his ſins, and that if he may be Tranſported, he would not do any ill thing for all the World.</p>
+            <p>Fourthly, <hi>John Crofts,</hi> of the Pariſh of <hi>Stepney,</hi> was Condemned for breaking up the Houſe of <hi>John Wells,</hi> and ſtealing thence one ſilver Porin<g ref="char:EOLhyphen"/>ger, with other Goods; he was taken in the Pro<g ref="char:EOLhyphen"/>ſecutors Houſe, and had been an Old Offender.</p>
+            <p>He told the <hi>Ordinary</hi> that he is one and twenty years of Age, that he was Born in the County of <hi>Norfolk,</hi> and ſerved out his Apprenticeſhip with a Broad Silk-Weaver, but his Friends not being able to ſet him up in his Trade, he fell into bad Company: That he had been Guilty of Breaking the <hi>Sabbath,</hi> and neglecting to improve the oppor<g ref="char:EOLhyphen"/>tunities which God gave him for to amend his life. That he did not pray that he might ſhake off his bad Acquaintance, tho' ſometimes he reſolved ſo to do. That by ſinning againſt the frequent Convictions of his Cenſcience, by degrees, it be<g ref="char:EOLhyphen"/>came ſo ſenſeleſs, that he adventured to Commit moſt ſort of ſins, without any check or reſtraint; but he hopes that this ſad Sentence of Death, which God and Man hath righteouſly inflicted up<g ref="char:EOLhyphen"/>on him, hath been a means to awaken his Conſci<g ref="char:EOLhyphen"/>ence, that hereupon, he hath endeavoured to call to mind his great ſins, and to beg of God, that he would give him true Repentance for them. That he hopes he ſhall make his peace with him, through the Merits of Chriſt, and then he ſhall not be afraid to dye.</p>
+            <p>5ly. <hi>Eliz. Churchill,</hi> of the Pariſh of St. <hi>Peter,</hi> Condemned for ſtealing three pieces of Guinea Gold, <hi>March</hi> the 12th. laſt, from <hi>John Ruſſel,</hi> which ſhe denyed not at her Tryal: She is 35 years of Age, was Born at <hi>Newcaſtle upon Tyne:</hi> Her firſt husband lived in <hi>Wapping</hi> near the Chap<g ref="char:EOLhyphen"/>pel, he was Mate to a Maſter of a Ship; and ſhe lived with him a 11 Years: Afterwards ſhe mar<g ref="char:EOLhyphen"/>ried to a Gold Wyre-drawer, who lived in <hi>Moor<g ref="char:EOLhyphen"/>fields,</hi> by whom, ſhe had ſeveral Children, two of which died of the Small-pox, and a third as he was playing, fell into the Town ditch and was drowned: She Confeſſ'd, that the ſudden loſs of theſe Children; preſently the one after the other, grieved her almoſt to diſtraction; but ſhe did not improve that afflicting providence of God, as as ſhe ought, to bring her to a ſincere repentance for all her ſins:</p>
+            <p>Alſo ſhe had a good Father, who gave her Re<g ref="char:EOLhyphen"/>ligious Education, but ſhe forſook the ways of God, for a Year and an half, before this ſad diſt<g ref="char:EOLhyphen"/>reſs came on her, to be Condemned: She ſaid that poverty upon her preſent husband (who is now a Souldier) was the occaſion of falling into this crime: that ſhe is now convinced of the many ſins of her life; yet ſhe is at times doubt<g ref="char:EOLhyphen"/>ful of the truth of her faith and repentance, be<g ref="char:EOLhyphen"/>cauſe ſhe now finds, that by reaſon of great guilt contracted, it is very hard truly to rely on Chriſt for ſalvation: The <hi>Ordinary</hi> incouraged her to believe, becauſe God's grace is all-ſuffici<g ref="char:EOLhyphen"/>ent to ſupport her under thoſe dark diſmal appre<g ref="char:EOLhyphen"/>henſions which ſhe hath of her ſpiritual eſtate; and upon further inquiry, he hopes ſhe is truly penitent.</p>
+            <p>Sixthly. <hi>Rebekah Roſe;</hi> Condemned with <hi>John Steers</hi> for Burglary and Felony; She was Born in <hi>Middleſex,</hi> is now 24 Years of age; ſhe ſayes that ſhe is very much troubled, that ſhe went againſt the council of her neareſt Relations, in marrying one <hi>Biggs,</hi> who was very lately Executed at <hi>Tyburn;</hi> and fears, that God blaſted her for ſuch diſobedience to her Parents; that ſhe had good Education, but led an ill life, which ag<g ref="char:EOLhyphen"/>gravates her ſins.</p>
+            <p>That ſhe married three Weeks before laſt Chri<g ref="char:EOLhyphen"/>ſtmas, to one <hi>Roſe,</hi> a perſon of very ill note; that ſhe kept a Victualing houſe in <hi>Eaſt-ſmithfield,</hi> till ſhe committed this Fact, and that her heart failed her in the doing of it, which makes her ſin the greater. She confeſs'd that ſhe had been an ill liver, but Poverty drove her to commit this Crime for which ſhe is Condemned. She ſays that ſhe deſires to become a true Penitent, and re<g ref="char:EOLhyphen"/>ſolves by Gods Grace to amend her Life, if ſhe may be ſpared from the Execution of the Sen<g ref="char:EOLhyphen"/>tence paſſed upon her.</p>
+            <p>The Two Women before mentioned are Re<g ref="char:EOLhyphen"/>prieved, upon their being quick with Child. The <hi>Ordinary</hi> Exhorted them, that they would not pervert this Reſpite from Death, to an occaſion of greater Security and Impenitence, but redeem precious time to the beſt advantage of their Souls.</p>
+            <p>This is all the Account which the <hi>Ordinary</hi> can give of the Criminals, Condemned this Seſſions.</p>
+            <p>About 10 of the Clock this Mornin, <hi>Peter Lary,</hi> was put into a Cart at <hi>Newgate,</hi> and conveyed to the place of Exe<g ref="char:EOLhyphen"/>cution, where the Ordinary prayed with him, and he Ex<g ref="char:EOLhyphen"/>horted the Spectators to take Warning by him; after which the <hi>Ordinary</hi> ſung part of a Pſalm, and ſo concluded with a Prayer, after which he was turned off.</p>
+            <closer>
+               <dateline>Dated <date>this 19th. day of April, 1686.</date>
+               </dateline>
+               <signed>
+                  <hi>Samuel Smith,</hi> Ordinary.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This may be Printed,</hi> R.L.S. April <hi>the</hi> 21ſt. 1686.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed by <hi>E. Mallet</hi> next Door to <hi>Shipton</hi>'s Coffee-Houſe near <hi>Fleet-Bridge.</hi> 1686.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
